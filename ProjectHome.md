@@ -1,0 +1,1 @@
+This is the first MMORPG fangame ever!
